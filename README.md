@@ -109,6 +109,7 @@ If the app fails to install, ensure that the XML in your Tooltips.xml manifest f
 
 *Related content*
 
+* [More Add-in samples](https://github.com/OfficeDev?utf8=%E2%9C%93&query=-Add-in)
 * [Build apps for Office](http://msdn.microsoft.com/library/jj220060.aspx)
 * [HTML Tutorial](http://www.w3schools.com/html/)
 * [What is jQuery?](http://jquery.com/)
