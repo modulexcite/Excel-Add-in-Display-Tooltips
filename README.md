@@ -2,10 +2,12 @@
 This sample app for Office shows how to use JavaScript in an Excel 2013 task pane app to create and position tooltips that are linked to keywords located within a body of text. The task pane contains sample text that includes two highlighted keywords. Moving the mouse over either of the keywords displays a tooltip that is specific to that keyword. After a few seconds, the tooltip slowly fades from view as its opacity changes.
 
 Figure 1 shows the workbook opened with a tooltip displayed.
-![Figure 1. Tooltip is displayed for a keyword](/description/image.png)
+
+![Figure 1. Tooltip is displayed for a keyword](/description/image.jpg/)
 
 Figure 2 shows the tooltip starting to fade from view.
-![Figure 2. Tooltip as it starts to fade from view](/description/27e9d619-0f9d-4dba-bd29-1094a112ac59image.png)
+
+![Figure 2. Tooltip as it starts to fade from view](/description/27e9d619-0f9d-4dba-bd29-1094a112ac59image.jpg)
 
 
 The sample demonstrates how to perform the following tasks:
@@ -107,6 +109,7 @@ If the app fails to install, ensure that the XML in your Tooltips.xml manifest f
 
 *Related content*
 
+* [More Add-in samples](https://github.com/OfficeDev?utf8=%E2%9C%93&query=-Add-in)
 * [Build apps for Office](http://msdn.microsoft.com/library/jj220060.aspx)
 * [HTML Tutorial](http://www.w3schools.com/html/)
 * [What is jQuery?](http://jquery.com/)
